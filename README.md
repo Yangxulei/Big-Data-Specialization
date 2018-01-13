@@ -1,4 +1,4 @@
-# Big-Date-Specialization
+# Big-Data-Specialization
 
 ## [EECS598课程](https://github.com/mosharaf/eecs598)阅读总结
 
